@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2014/11/22 00:10:24.823,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2014/11/22 00:10:24.938,=C:\Users\user\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2014/11/22 00:12:52.256,C:\Users\user\Documents\Embarcadero\Studio\Projects\myDllPCH1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2014/11/22 00:12:52.296,C:\Users\user\Documents\Embarcadero\Studio\Projects\myDll.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2014/11/22 00:13:32.804,C:\Users\user\Documents\Embarcadero\Studio\Projects\mainDLL.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2014/11/22 00:14:15.194,C:\Users\user\Documents\Embarcadero\Studio\Projects\dllmain.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\mainDLL.cpp</Transaction>
+    <Transaction>2014/11/22 00:14:22.957,C:\Users\user\Documents\Embarcadero\Studio\Projects\mainDll.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\dllmain.cpp</Transaction>
+    <Transaction>2014/11/22 00:15:33.045,C:\Users\user\Documents\Embarcadero\Studio\Projects\Mydll\mainDll.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\mainDll.cpp</Transaction>
+    <Transaction>2014/11/22 00:15:35.702,C:\Users\user\Documents\Embarcadero\Studio\Projects\Mydll\myDllPCH1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\myDllPCH1.h</Transaction>
+    <Transaction>2014/11/22 00:15:36.858,C:\Users\user\Documents\Embarcadero\Studio\Projects\Mydll\myDll.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\myDll.cbproj</Transaction>
+    <Transaction>2014/11/22 00:16:40.687,C:\Users\user\Documents\Embarcadero\Studio\Projects\Win32\myDll.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Mydll\myDll.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
